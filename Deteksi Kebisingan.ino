@@ -10,12 +10,12 @@
 
 // ================== Konfigurasi WiFi & Blynk =====================
 const char* ssid = "Zet4L";
-const char* password = "Salman123";
+const char* password = "xxxxx";
 
 char auth[] = "zSfUK0A7oswGT1dmxBPjef_mNwIYpQ8j"; // Token dari Blynk
 
 // ================== Konfigurasi CallMeBot =======================
-String phoneNumber = "6282350446130";  // Nomor WhatsApp 
+String phoneNumber = "628xxxxxxx";  // Nomor WhatsApp 
 String apiKey = "b5f7grK2d3e8";             // API Key dari CallMeBot
 
 // ================== LCD dan Sensor ========================
