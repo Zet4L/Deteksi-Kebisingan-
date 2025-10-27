@@ -12,7 +12,7 @@
 const char* ssid = "Zet4L";
 const char* password = "xxxxx";
 
-char auth[] = "zSfUK0A7oswGT1dmxBPjef_mNwIYpQ8j"; // Token dari Blynk
+char auth[] = "xxxxxxxxxxxxxx"; // Token dari Blynk
 
 // ================== Konfigurasi CallMeBot =======================
 String phoneNumber = "628xxxxxxx";  // Nomor WhatsApp 
